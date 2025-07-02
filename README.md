@@ -52,8 +52,8 @@ cd insightflow
 # Install dependencies
 install on based dependencies by using requirements.txt
 # Set up environment variables
-# (Create a .env file and add your claude API key)
-echo "ANTHROPIC_API_KEY=your_api_key_here" > .env
+# (Create a .env file and add your claude API key) like this
+ANTHROPIC_API_KEY="your_api_key_here" in .env
 
 # Run backend
 uvicorn app.main:app --reload
