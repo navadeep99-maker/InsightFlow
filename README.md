@@ -82,6 +82,7 @@ streamlit run ui/app.py
 
 
 🧍 Test User Credentials
+
 Here’s a sample of available user types, each mapped to a unique domain and access level. You can use these to demo how InsightFlow dynamically adjusts search scope and prompt construction:
 - 👷 Tony
 - Role: engineering
