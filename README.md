@@ -134,3 +134,17 @@ Analytics dashboard for usage and insights
 Developed by Navadeep — exploring scalable, secure, and intelligent systems with a flair for clean UI.
 
  Resources provided by codebasics.
+ screenshots of chatbot:
+
+
+ ![image](https://github.com/user-attachments/assets/70c655d4-73ad-4c5b-a52b-ef534a6465f7)
+ ![image](https://github.com/user-attachments/assets/1a0d05f1-ac4b-4c86-99d1-207d5b1370c8)
+
+
+
+
+
+
+
+
+ 
