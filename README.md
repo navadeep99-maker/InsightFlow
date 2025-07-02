@@ -1,6 +1,7 @@
 🌊 InsightFlow – Role-Based AI Assistant:
 
-InsightFlow is an intelligent conversational assistant that delivers role-specific responses based on hierarchical access. It blends FastAPI for backend logic, LangChain + FAISS (or pluggable vector stores) for semantic search, and Streamlit for a seamless chat UI experience.
+InsightFlow is an intelligent conversational assistant that delivers role-specific responses based on hierarchical access form company specfic data without any hallucinations. It blends FastAPI for backend logic, LangChain + FAISS (or pluggable vector stores) for semantic search, and Streamlit for a seamless chat UI experience.
+
 
 💻 Tech Stack:
 
