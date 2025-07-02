@@ -59,18 +59,25 @@ From vector stores to UI theming, everything is modular. Want to swap out FAISS 
 
 🧪 Local Development Setup:
 
-# Clone the repo
+ Clone the repo
+ 
 git clone https://github.com/your-repo/insightflow.git
 cd insightflow
-# Install dependencies
+
+Install dependencies
+
 install on based dependencies by using requirements.txt
-# Set up environment variables
-# (Create a .env file and add your claude API key) like this
+Set up environment variables
+
+ (Create a .env file and add your 
+ claude API key) like this 
+ 
 ANTHROPIC_API_KEY="your_api_key_here" in .env
 
-# Run backend
+ Run backend
+ 
 uvicorn app.main:app --reload
-# Run frontend
+ Run frontend
 streamlit run ui/app.py
 
 
