@@ -5,5 +5,16 @@ description = "Starter project for the RPC-01: Internal Chatbot with Role Based 
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "fastapi[standard]>=0.115.12",
+    "fastapi[standard]>=0.115.0",
+    "streamlit>=1.32.0",
+    "requests>=2.31.0",
+    "langchain>=0.1.17",
+    "langchain-community>=0.0.32",
+    "langchain-huggingface>=0.0.1",
+    "langchain-anthropic>=0.1.8",
+    "sentence-transformers>=2.2.2",   # for HuggingFaceEmbeddings
+    "faiss-cpu>=1.7.4",              # if not using GPU version
+    "anthropic>=0.20.0",             # for ChatAnthropic
+    "pydantic>=2.0",
+    "uvicorn[standard]>=0.29.0",
 ]

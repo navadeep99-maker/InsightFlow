@@ -1,0 +1,12 @@
+fastapi
+streamlit
+requests
+langchain
+langchain-community
+langchain-huggingface
+langchain-anthropic
+sentence-transformers
+faiss-cpu
+anthropic
+pydantic
+uvicorn
