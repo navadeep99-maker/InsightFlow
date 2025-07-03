@@ -30,6 +30,11 @@ LLM-Powered Answers: Using Claude or any other LLM with LangChain RetrievalQA.
 
 Chat UI: Streamlit-powered interface for seamless interaction.
 
+🗂️ Role-Based Vector Data Loading:
+
+At startup, all .md files in role-named folders (like HR/, Finance/) are processed.
+Each file is read, tagged with {"role": <folder_name>}, and stored in the vector DB for strict role-based retrieval.
+
 
 🔑 Key Features
 
@@ -57,10 +62,6 @@ The front-end—built entirely in Streamlit—features login/logout logic, chat 
 
 From vector stores to UI theming, everything is modular. Want to swap out FAISS for Qdrant or deploy to another UI framework? Minimal refactoring is needed. It's developer-friendly, extensible, and ready for upgrades.
 
-🗂️ Role-Based Vector Data Loading:
-
-At startup, all .md files in role-named folders (like HR/, Finance/) are processed.
-Each file is read, tagged with {"role": <folder_name>}, and stored in the vector DB for strict role-based retrieval.
 
 
 
