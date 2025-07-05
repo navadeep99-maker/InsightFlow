@@ -140,6 +140,13 @@ Analytics dashboard for usage and insights
 🤝 Author
 Developed by Navadeep — exploring scalable, secure, and intelligent systems with a flair for clean UI.
 
+
+📝 *Note on Contributors:*
+
+This project was built entirely by me. Early in development, I downloaded a boilerplate for reference purposes only, but none of its code or structure was used in the final implementation. 
+
+A contributor may appear due to that early reference, but they were not involved in this project. The final codebase is original and created from scratch.
+
  Resources provided by codebasics.
  screenshots of chatbot:
 
